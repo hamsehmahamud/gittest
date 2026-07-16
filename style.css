@@ -55,3 +55,11 @@ h2 {
 .input-group input:focus {
     border-color: #007bff;
 }
+/* Links & Actions */
+.form-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    margin-bottom: 24px;
+}
