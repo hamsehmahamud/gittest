@@ -21,3 +21,8 @@ body {
     width: 100%;
     max-width: 400px;
 }
+h2 {
+    color: #333333;
+    margin-bottom: 8px;
+    font-size: 28px;
+}
