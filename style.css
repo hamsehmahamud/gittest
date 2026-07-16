@@ -78,3 +78,16 @@ h2 {
 .forgot-pass:hover, .signup-link a:hover {
     text-decoration: underline;
 }
+/* Primary Button */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    background: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
