@@ -63,3 +63,14 @@ h2 {
     font-size: 13px;
     margin-bottom: 24px;
 }
+.remember-me {
+    color: #555555;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.forgot-pass, .signup-link a {
+    color: #007bff;
+    text-decoration: none;
+}
