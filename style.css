@@ -36,3 +36,10 @@ h2 {
     margin-bottom: 20px;
     text-align: left;
 }
+.input-group label {
+    display: block;
+    margin-bottom: 6px;
+    color: #444444;
+    font-size: 14px;
+    font-weight: 500;
+}
