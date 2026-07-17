@@ -112,5 +112,7 @@ border-color: red;
 border: none;
 cursor: none;
 width: 12px ;
+height: 15px ;
+backface-visibility: none;
 
 }
