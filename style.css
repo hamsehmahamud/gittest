@@ -124,3 +124,8 @@ backface-visibility: none;
                margin-bottom: 24px;
 
 }
+.form-actions {
+    display: flex;
+        
+
+}
